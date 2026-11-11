@@ -1,16 +1,13 @@
 <!-- 
 ==============================================================================
-  GITHUB PROFILE README - SAI VIDYUT C (AI & BACKEND ENGINEER)
-==============================================================================
-  CUSTOMIZATION NOTE:
-  Replace "saividyutc" with your exact GitHub username if your handle differs.
+  GITHUB PROFILE README - DEV-RYSKLY (AI & BACKEND ENGINEER)
 ==============================================================================
 -->
 
 <div align="center">
 
   <!-- Header & Name -->
-  <h1>Sai Vidyut C</h1>
+  <h1>dev-ryskly</h1>
   <p><strong>Building AI-Powered Backend Applications & Developer Tools</strong></p>
 
   <!-- Animated Typing Header -->
@@ -24,10 +21,10 @@
 
   <p align="center">
     <!-- Platform Badges (Dark Monochrome Theme) -->
-    <a href="https://github.com/saividyutc"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://linkedin.com/in/saividyutc"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/saividyutc"><img src="https://img.shields.io/badge/X%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-    <a href="mailto:contact@saividyut.dev"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/dev-ryskly"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/dev-ryskly"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/dev-ryskly"><img src="https://img.shields.io/badge/X%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+    <a href="mailto:contact@dev-ryskly.dev"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
@@ -98,7 +95,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/saividyutc/instagram-dashboard">Instagram Analytics Dashboard</a></h3>
+      <h3>📊 <a href="https://github.com/dev-ryskly/Instagram-Dashboard">Instagram Analytics Dashboard</a></h3>
       <p><i>Full-Stack Analytics & Profile Snapshot Platform</i></p>
       <ul>
         <li>Layered FastAPI backend with PostgreSQL persistence & service abstractions.</li>
@@ -110,7 +107,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/saividyutc/clip-management-system">Clip Management System</a></h3>
+      <h3>🎬 <a href="https://github.com/dev-ryskly/clip-management-system">Clip Management System</a></h3>
       <p><i>AI-Powered Media Management & Metadata Indexing</i></p>
       <ul>
         <li>Automated video clip processing and metadata extraction workflow.</li>
@@ -124,7 +121,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🦙 <a href="https://github.com/saividyutc/local-llm-ollama-mcp">Local LLM & MCP Lab</a></h3>
+      <h3>🦙 <a href="https://github.com/dev-ryskly/local-llm-ollama-mcp">Local LLM & MCP Lab</a></h3>
       <p><i>Local LLM Experiments & Tool Integration Sandbox</i></p>
       <ul>
         <li>Local inference experiments using Ollama for offline AI capabilities.</li>
@@ -136,7 +133,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/saividyutc/ai-dev-workflows">AI-Assisted Dev Workflows</a></h3>
+      <h3>🤖 <a href="https://github.com/dev-ryskly/ai-dev-workflows">AI-Assisted Dev Workflows</a></h3>
       <p><i>Developer Tooling & Agentic Automation Suite</i></p>
       <ul>
         <li>Custom tools and scripts designed to accelerate local engineering workflows.</li>
@@ -159,10 +156,10 @@
   <table border="0" style="border: none;">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=saividyutc&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&border_color=21262D&count_private=true&hide_border=false" alt="GitHub Stats" width="410" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dev-ryskly&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&border_color=21262D&count_private=true&hide_border=false" alt="GitHub Stats" width="410" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saividyutc&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&border_color=21262D&hide_border=false&langs_count=6" alt="Top Languages" width="370" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ryskly&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&border_color=21262D&hide_border=false&langs_count=6" alt="Top Languages" width="370" />
       </td>
     </tr>
   </table>
@@ -171,7 +168,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saividyutc&theme=dark&background=0D1117&border=21262D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&dates=999999" alt="GitHub Streak Stats" width="790" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ryskly&theme=dark&background=0D1117&border=21262D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=999999&dates=999999" alt="GitHub Streak Stats" width="790" />
 </div>
 
 ---
@@ -181,9 +178,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saividyutc/saividyutc/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saividyutc/saividyutc/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/saividyutc/saividyutc/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-ryskly/dev-ryskly/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-ryskly/dev-ryskly/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/dev-ryskly/dev-ryskly/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
   <p><i>Automated contribution snake powered by GitHub Actions.</i></p>
 </div>
@@ -198,5 +195,5 @@
     <a href="#top">⬆️ Back to Top</a>
   </p>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=saividyutc&color=161B22&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dev-ryskly&color=161B22&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
